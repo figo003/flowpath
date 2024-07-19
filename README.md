@@ -20,14 +20,18 @@ Jdk >= 1.8
 
 
 ## 2、引入pom
-<dependency><br>
-    <groupId>com.figo.common.flowable</groupId>  <br>
-    <artifactId>figo-common-flowable-starter</artifactId>  <br>
-    <version>1.0.3</version>  <br>
-    <scope>system</scope>  <br>
-    <systemPath>${project.basedir}/src/main/resources/lib/figo-common-flowable-starter-1.0.3.jar</systemPath>  <br>
-</dependency>  <br>
+```
+<dependency>
+    <groupId>com.figo.common.flowable</groupId> 
+    <artifactId>figo-common-flowable-starter</artifactId> 
+    <version>1.0.3</version>
+    <scope>system</scope> 
+    <systemPath>${project.basedir}/src/main/resources/lib/figo-common-flowable-starter-1.0.3.jar</systemPath>
+</dependency>
+```
 
+包目录：/src/main/resources/lib
+可以将包放入maven私服中，暂未放入中央仓库
 ## 3、数据库脚本
 导入组件项目中sql脚本，位置：src/main/resources/sql/flowable_init.sql
 
