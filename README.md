@@ -12,7 +12,13 @@
 # 3、拓展功能
   提供不同审核类型查询审核人信息、回退操作以及终止操作时回调方法，可供业务层按需使用
 
-
+# 演示图
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/1.png) <br>
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/2.png) <br>
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/3.png) <br>
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/4.png) <br>
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/5.png) <br>
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/6.png) <br>
 
 # 组件集成
 ## 1、环境要求
@@ -41,8 +47,10 @@ Jdk >= 1.8
 2、开放接口，根据业务需要与前端联调对接或者集成至业务中封装 <br>
 
 ## 1、通用功能
-集成前后端组件后，提供现成的流程定义(流程模型的绘制以及增删改查)相关的功能；如下图所示；
-
+集成前后端组件后，提供现成的流程定义(流程模型的绘制以及增删改查)相关的功能；如下图所示；<br>
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/7.png) <br>
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/8.png) <br>
+![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/9.png) <br>
 
 ## 2、开放功能
 ### 2.1流程的发起、撤回
