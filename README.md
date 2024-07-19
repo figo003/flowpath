@@ -49,8 +49,8 @@ Jdk >= 1.8
 
 # 2.3扩展功能
 **IFlowBaseService接口，提供三个基础通用接口**
-1、根据type审核人信息获取 businessUserList(Integer type)
-2、根据key和type获取名称 findUserByKeyAndType(List<String> key, Integer type)
+## 1、根据type审核人信息获取 businessUserList(Integer type)
+## 2、根据key和type获取名称 findUserByKeyAndType(List<String> key, Integer type)
 参数key为：   需要查询数据的主键
 参数type为：  用户信息，1表示用户列表；2表示角色；3表示组
 以上两个方法必须实现并且完善type为1、2、3的逻辑；
