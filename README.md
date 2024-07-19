@@ -20,13 +20,13 @@ Jdk >= 1.8
 
 
 # 2、引入pom
-<dependency>
-    <groupId>com.figo.common.flowable</groupId>
-    <artifactId>figo-common-flowable-starter</artifactId>
-    <version>1.0.3</version>
-    <scope>system</scope>
-    <systemPath>${project.basedir}/src/main/resources/lib/figo-common-flowable-starter-1.0.3.jar</systemPath>
-</dependency>
+<dependency>  
+    <groupId>com.figo.common.flowable</groupId>  
+    <artifactId>figo-common-flowable-starter</artifactId>  
+    <version>1.0.3</version>  
+    <scope>system</scope>  
+    <systemPath>${project.basedir}/src/main/resources/lib/figo-common-flowable-starter-1.0.3.jar</systemPath>  
+</dependency>  
 
 # 3、数据库脚本
 导入组件项目中sql脚本，位置：src/main/resources/sql/flowable_init.sql
