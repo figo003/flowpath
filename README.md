@@ -72,3 +72,10 @@ IFlowBusinessService接口，提供两个业务接口 <br>
 数据库中提供分类字典表(act_category_dic)，默认数据：请假和报销；根据业务层需要在字典表增删改字典表数据。
 
 
+交流群~~秋秋：<br>
+993911824<br>
+开源不易，感谢支持一杯咖啡,您的支持才是我前进的动力<br>
+ ![image](https://github.com/figo003/flowpath/blob/main/figo-flowable-demo/img/zhifubao.png)
+
+
+
