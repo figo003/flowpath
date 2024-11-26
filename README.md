@@ -42,7 +42,7 @@ Jdk >= 1.8
 ```
 
 包目录：/src/main/resources/lib
-可以将包放入maven私服中，暂未放入中央仓库
+可以将包放入maven私服中，暂未放入中央仓库，包源码在QQ群中，需要请加群获取，QQ：993911824
 ## 3、数据库脚本
 导入组件项目中sql脚本，位置：src/main/resources/sql/flowable_init.sql
 
